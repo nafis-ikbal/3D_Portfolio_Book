@@ -1,0 +1,19 @@
+@reference "tailwindcss";
+
+.icon svg {
+  @apply text-6xl cursor-pointer;
+
+  &:hover {
+    opacity: 0.8;
+    transform: translateY(-6px);
+  }
+}
+
+.insta {
+  @apply h-full bg-no-repeat bg-center bg-cover p-1 ml-1 cursor-pointer;
+
+  &:hover {
+    opacity: 0.8;
+    transform: translateY(-6px)
+  }
+}
