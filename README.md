@@ -2,6 +2,10 @@
 
 A unique and interactive portfolio website designed as a 3D flippable book using React.
 
+## 🌐 Live Preview
+
+Check out the live demo: [3D Portfolio Book](https://3d-portfolio-book.netlify.app/)
+
 ## 🚀 Features
 
 - Interactive 3D book interface
@@ -30,6 +34,11 @@ A unique and interactive portfolio website designed as a 3D flippable book using
 - **Skills Page**: Showcase of your technical skills
 - **Project Pages**: Portfolio of your work (projects) with detailed descriptions
 - **Services Page**: Services you offer
+
+## ⚠️ **Important Notes:**
+
+- This website is not responsive and is best viewed on desktop/laptop
+- Please use browser's light mode for optimal viewing experience
 
 ## 🤝 Contributing
 
