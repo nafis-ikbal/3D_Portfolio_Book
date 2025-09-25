@@ -4,7 +4,7 @@ A unique and interactive portfolio website designed as a 3D flippable book using
 
 ## 🌐 Live Preview
 
-Check out the live demo: <a href="https://3d-portfolio-book.netlify.app/" target="_blank">3D Portfolio Book</a>
+Check out the live demo: [3D Portfolio Book](https://3d-portfolio-book.netlify.app/)
 
 ## 🚀 Features
 
