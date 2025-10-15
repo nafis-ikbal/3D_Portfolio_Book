@@ -38,7 +38,6 @@ Check out the live demo: [3D Portfolio Book](https://3d-portfolio-book.netlify.a
 ## ⚠️ **Important Notes:**
 
 - This website is not responsive and is best viewed on desktop/laptop
-- Please use browser's light mode for optimal viewing experience
 
 ## 🤝 Contributing
 

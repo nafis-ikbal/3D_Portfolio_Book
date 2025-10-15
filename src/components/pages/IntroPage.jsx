@@ -11,10 +11,10 @@ export default function IntroPage() {
       </div>
 
       <div className="h-[50%] px-14">
-        <p className="text-xl">Assalamu Alaikum...</p>
-        <h1 className="text-6xl my-2 font-semibold font-epunda">I'm Nafis Ikbal</h1>
+        <p className="text-xl text-black/90">Assalamu Alaikum...</p>
+        <h1 className="text-6xl my-2 font-semibold font-epunda text-black">I'm Nafis Ikbal</h1>
         <h3 className="text-2xl font-medium text-orange-500">"Junior Frontend Developer"</h3>
-        <p className="text-xl mt-2 italic tracking-wide">
+        <p className="text-xl mt-2 italic tracking-wide text-gray-900">
           I specialize in developing high-fidelity prototypes and modern web applications using HTML, CSS, JavaScript, and React - turning ideas into interactive, user-friendly experiences.
         </p>
       </div>
